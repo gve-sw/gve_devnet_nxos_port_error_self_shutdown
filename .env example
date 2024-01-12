@@ -1,0 +1,3 @@
+SWITCHIPLIST = inventory.csv
+USERNAME = admin
+PASSWORD = password

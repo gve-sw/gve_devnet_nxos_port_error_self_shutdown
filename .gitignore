@@ -1,0 +1,4 @@
+nxosvenv/
+.env
+__pycache__
+inventory.csv
